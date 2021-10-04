@@ -2427,3 +2427,10 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Sourav Gupta](https://github.com/souravgupta0401)
+- Place: Durgapur,India
+- Bio: C++ Intermediate
+- Github: [Ítalo Epifânio](https://github.com/souravgupta0401)
+
